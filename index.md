@@ -7,3 +7,5 @@ std::cout << "Hello, World!" << std::endl;
 
 
 ![alt text](![alt text](images/logo.pdf "Our logo") "Our logo")
+
+![image](https://kentglenn.github.io/images/logo.pdf)
