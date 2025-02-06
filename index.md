@@ -11,4 +11,4 @@ std::cout << "Hello, World!" << std::endl;
 ![image](images/logo.pdf)
 ![image](/images/logo.pdf)
 
-![alt text](logo.pdf "Title")
+![alt text](images/logo.pdf "Title")
